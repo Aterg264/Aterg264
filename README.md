@@ -17,10 +17,10 @@
 ### ⚡ Some little projects, tasks and proves
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://github.com/gretagh93/ExData_Plotting1/'>
-		<img src='https://p0.pikrepo.com/preview/319/129/graph-report-represents-trend-graphics-and-finance.jpg' alt='RStudio Plots' width="60" height="60">
+		<img src='https://p0.pikrepo.com/preview/319/129/graph-report-represents-trend-graphics-and-finance.jpg' alt='RStudio Plots' width="90" height="90">
 	</a>
 	<a href='https://github.com/gretagh93/Resistencia-Clandestina/blob/master/list.txt'>
-		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/600px-Git_icon.svg.png' alt='Git' width="35" height="35">
+		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/600px-Git_icon.svg.png' alt='Git' width="90" height="90">
 	</a>
 <!-- 
 ✨
