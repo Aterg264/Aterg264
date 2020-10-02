@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi there I am Greta 👋
+<div style='font-size:1.5em'>
+	<b>Full stack Web Dev and Programming Enthusiast</b>
+	<br>
+</div>
 <!--
 **gretagh93/gretagh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
