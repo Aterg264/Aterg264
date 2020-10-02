@@ -6,7 +6,7 @@
 </div>
 
 ### ✨ Get Me on
-<div align='center' style="display: flex; justify-content: space-between;">
+<div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://discord.com/'>
 		<img src='https://pbs.twimg.com/media/CSA9MacUcAAdY8h.png' alt='Discord' width="40" height="40">
 	</a>
@@ -15,7 +15,7 @@
 	</a>
 
 ### ⚡ Some little projects, tasks and proves
-<div align='center' style="display: flex; justify-content: space-between;">
+<div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://github.com/gretagh93/ExData_Plotting1/'>
 		<img src='https://p0.pikrepo.com/preview/319/129/graph-report-represents-trend-graphics-and-finance.jpg' alt='RStudio Plots' width="60" height="60">
 	</a>
