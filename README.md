@@ -1,11 +1,21 @@
-# Hi there I am Greta 👋
+## Hi there I am Greta 👋
 <div style='font-size:1.5em'>
-	<b>Full stack Web Dev and Programming Enthusiast</b>
+	<b>Data science student and programming teacher</b>
 	<br>
+	Let's explore how to join both!
 </div>
-<!--
-**gretagh93/gretagh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### ✨ Get Me on
+<div align='left' style="display: flex; justify-content: space-between;">
+	<a href='https://discord.com/'>
+		<img src='https://pbs.twimg.com/media/CSA9MacUcAAdY8h.png' alt='Discord' width="40" height="40">
+	</a>
+	<a href='https://www.linkedin.com/in/greta-garcia-hernandez-149168106/'>
+		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/1024px-Linkedin_circle.svg.png' alt='Linkedin' width="40" height="40">
+	</a>
+
+<!-- 
+✨
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
