@@ -14,7 +14,7 @@
 		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/1024px-Linkedin_circle.svg.png' alt='Linkedin' width="35" height="35">
 	</a>
 
-### ⚡ Some little projects, tasks and proves
+### ⚡ Repositories
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://github.com/gretagh93/ExData_Plotting1/'>
 		<img src='https://p0.pikrepo.com/preview/319/129/graph-report-represents-trend-graphics-and-finance.jpg' alt='RStudio Plots' width="90" height="90">
