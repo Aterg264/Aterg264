@@ -11,6 +11,9 @@ I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a
 		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/1024px-Linkedin_circle.svg.png' alt='Linkedin' width="35" height="35"></a>
 </div>
 
+### Languages
+![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
+
 <!--
 
 ### ⚡ Repositories
