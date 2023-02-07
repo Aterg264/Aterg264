@@ -20,7 +20,7 @@ Languages <br>
 ![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=C%2B%2B&logoColor=3B86D4)
 
 Frameworks & Tools <br>
-![Keras](https://img.shields.io/badge/-Keras-555555?style=flat&logo=keras&logoColor=F05032)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-555555?&logo=TensorFlow)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/Anaconda-555555?style=flat&logo=anaconda)
 ![Processing](https://img.shields.io/badge/Processing-555555?style=flat&logo=processing)
