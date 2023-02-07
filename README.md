@@ -5,17 +5,30 @@ I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a
 
 ### ✨ Social
 <div align='left' style="display: flex; justify-content: space-between;">
-	<a href='https://discord.com/'>
-		<img src='https://pbs.twimg.com/media/CSA9MacUcAAdY8h.png' alt='Discord' width="40" height="40"></a>
 	<a href='https://www.linkedin.com/in/greta-garcia-hernandez-149168106/'>
 		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/1024px-Linkedin_circle.svg.png' alt='Linkedin' width="35" height="35"></a>
+	<a href='https://discord.com/'>
+		<img src='https://pbs.twimg.com/media/CSA9MacUcAAdY8h.png' alt='Discord' width="40" height="40"></a>
 </div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-555555?style=flat&logo=R)
 ![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=SQL)
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=C%2B%2B)
+
+### Frameworks & Tools
+![Keras](https://img.shields.io/badge/-Keras-444444?style=flat&logo=keras)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter)
+![Anaconda](https://img.shields.io/badge/Anaconda-333333?style=flat&logo=anaconda)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+
+### Markup & Styling
+![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3)
+![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat&logo=markdown)
+![LaTeX](https://img.shields.io/badge/LaTeX-555555?style=flat&logo=latex)
 
 <!--
 
