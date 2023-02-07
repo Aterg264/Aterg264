@@ -1,11 +1,9 @@
-## Hi there I am Greta 👋
+## Hi, I'm Greta 👋
 <div style='font-size:1.5em'>
-	<b>Data science student and programming teacher</b>
-	<br>
-	Let's explore how to join both!
+I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a curious person, I'm always learning new techniques, lybraries and ways to improve my code.
 </div>
 
-### ✨ Get Me on
+### ✨ Social
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://discord.com/'>
 		<img src='https://pbs.twimg.com/media/CSA9MacUcAAdY8h.png' alt='Discord' width="40" height="40">
@@ -13,6 +11,8 @@
 	<a href='https://www.linkedin.com/in/greta-garcia-hernandez-149168106/'>
 		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/1024px-Linkedin_circle.svg.png' alt='Linkedin' width="35" height="35">
 	</a>
+
+<!--
 
 ### ⚡ Repositories
 <div align='left' style="display: flex; justify-content: space-between;">
@@ -22,7 +22,7 @@
 	<a href='https://github.com/gretagh93/Resistencia-Clandestina/blob/master/list.txt'>
 		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/600px-Git_icon.svg.png' alt='Git' width="90" height="90">
 	</a>
-<!-- 
+
 ✨
 Here are some ideas to get you started:
 
@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
