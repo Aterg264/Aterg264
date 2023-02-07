@@ -13,7 +13,7 @@ I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
-![R](https://img.shields.io/badge/Python-555555?style=flat&logo=R)
+![R](https://img.shields.io/badge/R-555555?style=flat&logo=R)
 
 <!--
 
