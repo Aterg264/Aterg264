@@ -1,6 +1,6 @@
 ## Hi, I'm Greta 👋
 <div style='font-size:1.5em'>
-I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a curious person, I'm always learning new techniques, lybraries and ways to improve my code.
+I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a curious person, I'm always learning new techniques, libraries and ways to improve my code.
 </div>
 
 ### ✨ Social
