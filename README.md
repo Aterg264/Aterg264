@@ -15,23 +15,25 @@ I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a
 
 Languages <br>
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
-![R](https://img.shields.io/badge/R-555555?style=flat&logo=R)
-![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=SQL)
-![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=C%2B%2B)
+![R](https://img.shields.io/badge/R-555555?style=flat&logo=R&logoColor=3B86D4)
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=mysql)
+![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=C%2B%2B&logoColor=3B86D4)
 
 Frameworks & Tools <br>
-![Keras](https://img.shields.io/badge/-Keras-555555?style=flat&logo=keras)
+![Keras](https://img.shields.io/badge/-Keras-555555?style=flat&logo=keras&logoColor=F05032)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/Anaconda-555555?style=flat&logo=anaconda)
 ![Processing](https://img.shields.io/badge/Processing-555555?style=flat&logo=processing)
+![Arduino](https://img.shields.io/badge/Arduino-555555?style=flat&logo=arduino)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=FCC624)
+![Obsidian](https://img.shields.io/badge/Obsidian-555555?style=flat&logo=obsidian&logoColor=9D69FF)
 
 Markup & Styling <br>
 ![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3&logoColor=3B86D4)
 ![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat&logo=markdown)
-![LaTeX](https://img.shields.io/badge/LaTeX-555555?style=flat&logo=latex)
+![LaTeX](https://img.shields.io/badge/LaTeX-555555?style=flat&logo=latex&logoColor=54D5D3)
 
 <!--
 
