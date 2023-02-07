@@ -1,4 +1,4 @@
-## Hi, I'm Greta 👋
+## 👋 Hi, I'm Greta 👋
 <div style='font-size:1.5em'>
 I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a curious person, I'm always learning new techniques, libraries and ways to improve my code.
 </div>
@@ -11,20 +11,23 @@ I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a
 		<img src='https://pbs.twimg.com/media/CSA9MacUcAAdY8h.png' alt='Discord' width="40" height="40"></a>
 </div>
 
-### Languages
+### 👨‍💻 Technical Skills
+
+Languages <br>
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-555555?style=flat&logo=R)
 ![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=SQL)
 ![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=C%2B%2B)
 
-### Frameworks & Tools
-![Keras](https://img.shields.io/badge/-Keras-444444?style=flat&logo=keras)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter)
-![Anaconda](https://img.shields.io/badge/Anaconda-333333?style=flat&logo=anaconda)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+Frameworks & Tools <br>
+![Keras](https://img.shields.io/badge/-Keras-555555?style=flat&logo=keras)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter)
+![Anaconda](https://img.shields.io/badge/Anaconda-555555?style=flat&logo=anaconda)
+![Processing](https://img.shields.io/badge/Processing-555555?style=flat&logo=processing)
+![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=FCC624)
 
-### Markup & Styling
+Markup & Styling <br>
 ![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3)
 ![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat&logo=markdown)
