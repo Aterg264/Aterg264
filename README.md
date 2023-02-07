@@ -15,6 +15,7 @@ I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-555555?style=flat&logo=R)
 ![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=SQL)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 
 <!--
 
