@@ -14,7 +14,7 @@ I'm passionate about Machine Learning, Deep Learning, and Data Visualizing. As a
 ### 👨‍💻 Technical Skills
 
 Languages <br>
-![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=FEEF00)
 ![R](https://img.shields.io/badge/R-555555?style=flat&logo=R&logoColor=3B86D4)
 ![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=C%2B%2B&logoColor=3B86D4)
