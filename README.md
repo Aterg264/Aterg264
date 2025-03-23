@@ -25,7 +25,7 @@ Frameworks & Tools <br>
 ![Processing](https://img.shields.io/badge/Processing-555555?style=flat&logo=processing)
 ![Arduino](https://img.shields.io/badge/Arduino-555555?style=flat&logo=arduino)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
-![Streamlit](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-555555?style=flat&logo=streamlit)
 )
 
 Markup & Styling <br>
