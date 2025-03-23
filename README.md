@@ -9,9 +9,8 @@ I'm an educator and tech enthusiast with years of experience in robotics, progra
 ### ✨ Social
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://www.linkedin.com/in/greta-garcia-hernandez-149168106/'>
-		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/1024px-Linkedin_circle.svg.png' alt='Linkedin' width="35" height="35"></a>
-	<a href='https://discord.com/'>
-		<img src='https://pbs.twimg.com/media/CSA9MacUcAAdY8h.png' alt='Discord' width="40" height="40"></a>
+		<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/1024px-Linkedin_circle.svg.png' alt='Linkedin' width="35" height="35">
+	</a>
 </div>
 
 ### 👨‍💻 Technical Skills
