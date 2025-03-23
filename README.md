@@ -22,11 +22,11 @@ Languages <br>
 Frameworks & Tools <br>
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-555555?&logo=TensorFlow)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-555555?style=flat&logo=jupyter)
-![Anaconda](https://img.shields.io/badge/Anaconda-555555?style=flat&logo=anaconda)
 ![Processing](https://img.shields.io/badge/Processing-555555?style=flat&logo=processing)
 ![Arduino](https://img.shields.io/badge/Arduino-555555?style=flat&logo=arduino)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=F05032)
-![Obsidian](https://img.shields.io/badge/Obsidian-555555?style=flat&logo=obsidian&logoColor=9D69FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
+)
 
 Markup & Styling <br>
 ![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5)
