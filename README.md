@@ -17,7 +17,7 @@ Languages <br>
 ![R](https://img.shields.io/badge/R-555555?style=flat&logo=R&logoColor=3B86D4)
 ![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=C%2B%2B&logoColor=3B86D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow-555555?style=flat&logo=JavaScript&logoColor=FEEF00)
 
 Frameworks & Tools <br>
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-555555?&logo=TensorFlow)
