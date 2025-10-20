@@ -1,9 +1,6 @@
 ## 👋 Hi, I'm Greta
 <div style='font-size:1.5em'>
-I'm an educator and tech enthusiast with years of experience in robotics, programming, and computer science. I've spent much of my career teaching and inspiring young minds in coding and electronics, and I now coordinate a center dedicated to fostering innovation in these fields. <br><br>
-💡 I'm excited about open-source projects and eager to contribute, collaborate, and learn from the community. Always exploring new tools, technologies, and ways to make coding education more accessible.
-<br><br>
-🚀 Let's connect and build something great together!
+Cross-Platform Application Development professional and programming instructor with over six years of experience combining team coordination and technology training. Skilled in mentoring students, optimizing processes, and leading multidisciplinary teams, with a strong focus on problem-solving, cross-cultural collaboration, and continuous learning.
 </div>
 
 ### ✨ Social
