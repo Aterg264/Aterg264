@@ -28,7 +28,6 @@ Frameworks & Tools <br>
 ![Streamlit](https://img.shields.io/badge/Streamlit-555555?style=flat&logo=streamlit)
 
 Markup & Styling <br>
-![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3&logoColor=3B86D4)
 ![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat&logo=markdown)
 ![LaTeX](https://img.shields.io/badge/LaTeX-555555?style=flat&logo=latex&logoColor=54D5D3)
 
