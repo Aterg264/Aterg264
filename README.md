@@ -15,7 +15,7 @@ Cross-Platform Application Development professional and programming instructor w
 Languages <br>
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=4081B4)
 ![R](https://img.shields.io/badge/R-555555?style=flat&logo=R&logoColor=3B86D4)
-![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=sql)
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat&logo=SQL)
 ![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=C%2B%2B&logoColor=3B86D4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=JavaScript&logoColor=FEEF00)
 
